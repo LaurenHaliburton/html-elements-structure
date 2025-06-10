@@ -1,0 +1,19 @@
+.Ocean-Facts {
+  width: 300px;
+  height: 100px;
+  padding: 20px;
+  border: 3px solid #4CAF50;
+  margin: 30px;
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+}
+body {
+  background-color: lightyellow;
+}
+p {
+  font-size: 18px;
+  color: darkblue;
+  font-family: 'Bradley Hand', 'Bradley Hand ITC', cursive, sans-serif;
+  padding: 10px;
+  border-radius: 5px;
+}
